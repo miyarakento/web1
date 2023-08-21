@@ -1,0 +1,52 @@
+body {
+     margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(45deg, #4169e1, #A72F37);
+        color: #cccccc;
+
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.section {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.spot {
+    margin: 20px;
+}
+
+.spot img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
